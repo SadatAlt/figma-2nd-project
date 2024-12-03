@@ -111,3 +111,45 @@ color: #151515;
 padding-right: 127px;
 line-height: normal;
 }
+#servicePart{
+    padding: 100px 0;
+}
+.serviceHead h3{
+    font-size: 45px;
+    font-weight: 700;
+    color: #151515;
+    padding-bottom:20px;
+}
+.serviceHead p{
+    font-size: 16px;
+    line-height: 26px;
+    color: #737373;
+    font-weight: 400;
+    padding: 0 11px;
+}
+.serviceHead {
+    margin-bottom: 55px;
+}
+.serviceText h3{
+    font-size: 25px;
+    font-weight: 700;
+    color: #151515;
+    padding: 15px;
+}
+.serviceText p{
+    font-size: 16px;
+    line-height: 26px;
+    color: #737373;
+    font-weight: 400;
+    padding: 0 41px;
+}
+.serviceitem{
+    transition: 0.4s;
+}
+.serviceitem:hover{
+    padding: 50px 0;
+    border-radius: 10px;
+    -webkit-box-shadow: 2px 4px 15px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 2px 4px 15px 0px rgba(0,0,0,0.75);
+box-shadow: 2px 4px 15px 0px rgba(0,0,0,0.75);
+}
